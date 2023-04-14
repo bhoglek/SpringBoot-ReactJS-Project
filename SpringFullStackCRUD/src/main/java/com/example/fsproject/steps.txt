@@ -1,0 +1,29 @@
+create a spring starter project
+	create a database in Workbench for MySQL
+
+	add the necessary lines in application.properties for connection data.
+
+	create a model class for the Employee and annotate accordingly.
+
+	create a repository class for the Employee
+
+	create a controller class for the Employee
+
+	create a ResourceNotFoundException class
+
+	Run the server and test the basic flow
+
+Create a react frontend app
+	add bootstrap library
+	
+	add axios for making api call
+	
+	create ListEmployeeComponent under src
+	
+	create EmployeeService under src
+	
+	add react-router-dom library for routing 
+	
+	make necessary changes in App.js for routing
+	
+	
